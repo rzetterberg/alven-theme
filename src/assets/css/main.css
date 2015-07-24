@@ -1,0 +1,30 @@
+#header {
+  background: #1B2332;
+}
+
+#header > .top {
+  padding: 10px 0;
+}
+
+#header > .bottom {
+  padding: 10px 0;
+  background: #cccccc;
+}
+
+#header > .bottom ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#header > .bottom ul > li {
+  float: left;
+  margin-right: 10px;
+}
+
+#header > .bottom ul > li > a{
+  color: #1B2332;
+}
+
+#header > .bottom ul > li > a.active{
+  font-weight: bold;
+}
