@@ -7,3 +7,5 @@ installation.
 
 This theme uses the Olivine-labs Lua implementation of the mustache template 
 engine. [See more here!](https://github.com/Olivine-Labs/lustache)
+
+[!Screenshot](https://raw.githubusercontent.com/rzetterberg/alven-theme/master/screenshot.png)
